@@ -1,0 +1,12 @@
+{
+  "name": "lao-secure-exchange",
+  "version": "1.0.0",
+  "description": "Secure Information Exchange Program Simulation using Diffie-Hellman and AES-128",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve . --listen 3000"
+  },
+  "keywords": ["diffie-hellman", "aes", "cryptography", "information-security"],
+  "author": "Mesha Lao",
+  "license": "MIT"
+}
